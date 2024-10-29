@@ -1,0 +1,2 @@
+# ball-detection-video-processing
+ This repository provides a Python script using OpenCV to detect a ball in a video. It employs Hough Circle Transform for ball detection, converts each frame to grayscale, applies Gaussian Blur, and identifies circles based on radius thresholds. The detected ball is highlighted, and the output video is saved with the same frame rate and resolution as the original.
